@@ -1,0 +1,10 @@
+package object;
+
+public class Mobile {
+	String brand;
+	int price;
+	String colour;
+	boolean isWaterproof;
+	
+
+}
